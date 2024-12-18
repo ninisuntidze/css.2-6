@@ -1,0 +1,101 @@
+#background {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background: #E4EBFF;
+    margin: 0 auto;
+    
+}
+
+#Features {
+    text-align: center;
+    color: #6941C6;
+   
+}
+
+#Analytics {
+    color: #181D27;
+
+    text-align: center;
+}
+
+#Powerful {
+    color: #535862;
+
+    text-align: center;
+}
+
+
+#messagetwo {
+    width: 25px;
+    border-radius: var(--radius-full, 9999px);
+    background: #F4EBFF;
+    padding: 12px;
+}
+
+#Share {
+    color: #181D27;
+    width: 553px;
+}
+
+#Whether {
+    color: #535862;
+    width: 553px;
+}
+#check{
+    width: 28px;
+    vertical-align: middle;
+}
+#Leverage{
+    color: #535862;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#childDiv{
+   max-width: 1280px;
+   width: 100%;
+   background-color: white;
+   margin: 0 auto;
+   
+}
+#checktwo{
+    width: 28px;
+    vertical-align: middle;
+}
+#Always{
+    color: #535862;
+    display: inline-block;
+    margin-left: 10px;
+}
+#checkthree{
+    width: 28px;
+    vertical-align: middle;
+}
+#Automate{
+    color: #535862;
+    display: inline-block;
+    margin-left: 10px;
+}
+#pictureone{
+    width: 753px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 88px;
+    
+}
+
+#boxOne {
+    display: inline-block;
+    max-width: 533px;
+    width: 100%;
+    vertical-align: middle;
+  
+}
+
+#picture {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    width: 580px;
+}
